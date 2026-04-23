@@ -1,1 +1,11 @@
-# Lost-Item-Logger-System-for-College-Campus-LIL-CAMP-
+SECTION-08 BATCH-14
+
+LIL-CAMPUS  (Lost item logger system for college campus)
+
+Team details:
+
+2500031849  ASAD NASIR
+2500031908  ANKIT KUMAR
+2500031180  K. MANISHA
+2500031721  G. BHANUPRAKASH
+2500090319  SUMIT KUMAR SAH
